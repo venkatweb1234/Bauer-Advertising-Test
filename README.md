@@ -1,3 +1,44 @@
+Venkat
+
+yarn install
+or 
+yarn start
+
+
+**Code must be unit tested, adhere to sound software engineering principles and be self documenting code**
+
+Layout description for viewports:
+
+### Mobile
+- header sticky
+- single column
+- ad should be above the teasers
+- teasers should be stacked vertically in a single full-width column
+
+### Tablet
+- header sticky
+- teasers in left column
+- sidebar Ad in right column
+- 1st teaser should be 100% width
+- remaining teasers should be layed out in a grid of 2x2 with summary and title text beside the image to the right.
+
+### Desktop
+- header sticky
+- teasers in left column
+- sidebar Ad in right column
+- teasers should be layed out in a grid of 2x2
+- teasers should have image above with summary and title text below.
+
+## Constraints
+- React for UI
+- Sass styling
+- BEM as a class naming convention
+- Bootstrap or Foundation as CSS framework
+- Jest and Enzyme for testing
+- follow Airbnb best practices (https://github.com/airbnb/javascript)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
