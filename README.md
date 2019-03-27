@@ -1,8 +1,12 @@
 Venkat
 
 yarn install
+
 or 
+
 yarn start
+
+git clone 
 
 
 **Code must be unit tested, adhere to sound software engineering principles and be self documenting code**
