@@ -1,0 +1,118 @@
+.header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+  }
+  .images{
+   height: 75px;
+   margin-left:-281px;
+  }
+  .imagesmobile{
+    height: 75px;
+    margin-left:-14px;
+   }
+   .imagesTablet{
+    height: 75px;
+    margin-left:-2px;
+   }
+  .w3-sidebar
+  {
+    width:200px;
+    display:none;
+  }
+
+  .onsetSidebar
+  {
+    margin-left: 1274px;
+    margin-top: 10px;
+  }
+  .sideBarOpen
+  {
+      width:65%;
+  }
+  .sampleAd{
+    margin-left:947px;
+  }
+  .w3-teal
+  {
+      height: 60px;
+  }
+
+  .w3-container
+  {
+      margin-top:-41px;
+  }
+  .openNav
+  {
+    font-size:20px;
+    cursor:pointer;
+    margin-left:1200px;
+  }
+
+  .openNavmobile
+  {
+    font-size:8px;
+    cursor:pointer;
+    margin-left: 328px;
+    margin-top: -1px;
+  }
+
+  .openNavTablet
+  {
+    font-size:20px;
+    margin-left:730px;
+    cursor:pointer;
+  }
+
+  
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    margin-top: 75px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+.sideClosebtn{
+   font-size: xx-large;
+    margin-left: 331px;
+    cursor:pointer;
+    position: relative;
+}
+
+.row{
+  overflow: scroll;
+}
+
