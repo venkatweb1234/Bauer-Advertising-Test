@@ -1,12 +1,14 @@
 Venkat
+git clone https://github.com/venkatweb1234/Bauer-Advertising-Test.git
 
 yarn install
 
+npm install
 or 
 
 yarn start
 
-git clone 
+npm start
 
 
 **Code must be unit tested, adhere to sound software engineering principles and be self documenting code**
